@@ -1,4 +1,10 @@
-Я взял 5 геномов: amylolyticus, сaldiproteolyticus, gonensis, sediminis, fermentans (в виде таблице данные не оформлялись, однако все данные присутствуют в гугл коллабе)
+Я взял 5 геномов: 
+Anoxybacillus amylolyticus, 
+Anoxybacillus сaldiproteolyticus, 
+Anoxybacillus gonensis, 
+Anoxybacillus sediminis, 
+Anoxybacillus fermentans
+(в виде таблице данные не оформлялись, однако все данные присутствуют в гугл коллабе)
 (ссылка на коллаб - https://colab.research.google.com/drive/1n6caMYXJo_y8UwWL1yt1qG8md3pYMVU2?usp=sharing )
 Анализ аннотированных генов
 ![image](https://user-images.githubusercontent.com/43177979/173360396-33af27f8-81c2-45b6-8ee5-ba97b0e15a0c.png)

@@ -21,3 +21,15 @@
 
 ![image](https://user-images.githubusercontent.com/43177979/173366521-02c58a21-c152-4d7f-97d0-94e7697b8427.png)
 
+Визуализация генов
+(подробнее в коллабе)
+
+![image](https://user-images.githubusercontent.com/43177979/173384308-a47ef519-7b29-4cd1-9e2c-5b1ca3d3f5dd.png)
+
+![image](https://user-images.githubusercontent.com/43177979/173380666-83b03e8d-789c-4620-83f4-ca2f8febcf66.png)
+
+![image](https://user-images.githubusercontent.com/43177979/173384646-ead16ec1-25a6-4b0b-bdcd-4b5bd109b67f.png)
+
+![image](https://user-images.githubusercontent.com/43177979/173383851-a7a692f6-0302-4ff2-b13b-b76941e39a8f.png)
+
+![image](https://user-images.githubusercontent.com/43177979/173383517-8cd049bd-48c3-4a04-8685-61f3fe80528a.png)

@@ -33,3 +33,7 @@
 ![image](https://user-images.githubusercontent.com/43177979/173383851-a7a692f6-0302-4ff2-b13b-b76941e39a8f.png)
 
 ![image](https://user-images.githubusercontent.com/43177979/173383517-8cd049bd-48c3-4a04-8685-61f3fe80528a.png)
+
+Определение Гомологов
+
+![image](https://user-images.githubusercontent.com/43177979/173392794-2b2168f3-1659-4f50-998a-2ba2d0798d4d.png)

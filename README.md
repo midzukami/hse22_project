@@ -37,3 +37,5 @@
 Определение Гомологов
 
 ![image](https://user-images.githubusercontent.com/43177979/173392794-2b2168f3-1659-4f50-998a-2ba2d0798d4d.png)
+
+![image](https://user-images.githubusercontent.com/43177979/173430180-6cde45cb-3a5f-41aa-8dce-8aee1080d5c3.png)
